@@ -21,11 +21,6 @@
  - The game will stopp once the birds collides or Falls
  - Press space or arrowup key to then restart the game
 
-
- <br>
-
- ## **Screenshots 📸**
-
  <br>
 
  ![image](../../assets/images/Flappy_Bird_Game.png)

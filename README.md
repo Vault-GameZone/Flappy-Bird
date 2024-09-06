@@ -23,7 +23,7 @@
 
  <br>
 
- ![image](../../assets/images/Flappy_Bird_Game.png)
+ ![image](./assets/images/Flappy_Bird_Game.png)
 
  <br>
 

@@ -1,4 +1,4 @@
- //canvas
+//canvas
 let canvas;
 let boardWidth = 780;
 let boardHeight = 720;
